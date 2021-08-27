@@ -3,6 +3,7 @@
 延伸《怪獸電力公司》電影的故事劇情，送小女孩阿布回家，設計的點擊遊戲！
 ![Send Her Home](/images/sendHerHome.jpg)
 ![Send Her Home](/images/sendHerHome2.jpg)
+遊戲圖片取自網路
 
 ---
 
